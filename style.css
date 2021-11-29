@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color:rgb(231, 126, 28);
+    display: block;
+    height: 30px;
+    width: 100%;
+    padding-top: 15px;
+}
+ul{
+   text-align: center;
+   
+}
+li{
+    display: inline;
+    margin-left: 50px;
+    cursor: pointer;
+    
+}
