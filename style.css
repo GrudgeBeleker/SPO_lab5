@@ -6,6 +6,10 @@ body{
     background-color: rgb(41, 37, 37);
     color: white;
 }
+h2{
+    padding-bottom: 20px;
+    font-size: 40px;
+}
 .header{
     background-color: #252933;
     display: block;
@@ -35,4 +39,15 @@ ul li{
 .main{
     margin-top: 20px;
     margin-left: 50px;
+    margin-right: 50px;
+}
+#mainPic{
+    height: 500px;
+    width: 800px;
+    padding-top: 40px;
+}
+#mainPic2{
+    height: 500px;
+    width: 800px;
+    padding-top: 40px;  
 }
