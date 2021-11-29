@@ -2,20 +2,37 @@
     margin: 0;
     padding: 0;
 }
+body{
+    background-color: rgb(41, 37, 37);
+    color: white;
+}
 .header{
-    background-color:rgb(231, 126, 28);
+    background-color: #252933;
     display: block;
-    height: 30px;
+    height: 40px;
     width: 100%;
-    padding-top: 15px;
+    padding-top: 20px;
 }
 ul{
    text-align: center;
-   
 }
-li{
+li:hover{
+    color: gray;    
+    transition: all;
+    transition: .2s;
+}
+
+ul li{
     display: inline;
-    margin-left: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
     cursor: pointer;
-    
+    color: white;
+    transition: all;
+    transition: .4s;
+    font-family: Cambria, Cochin, Georgia, Times, 'Calibri', serif;
+}
+.main{
+    margin-top: 20px;
+    margin-left: 50px;
 }
