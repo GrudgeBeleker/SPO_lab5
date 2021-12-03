@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0;
 }
+a{
+    text-decoration: none;
+    color: white;
+}
 body{
     background-color: rgb(41, 37, 37);
     color: white;
@@ -32,8 +36,8 @@ li:hover{
 
 ul li{
     display: inline;
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-left: 45px;
+    margin-right: 45px;
     cursor: pointer;
     color: white;
     transition: all;
