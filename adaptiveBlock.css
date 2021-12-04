@@ -106,13 +106,47 @@
     #mainPic2{
         width: 400px;
         height: 330px;
+    }
+    .pcVariant{
+        visibility: hidden;
+    }
+    
+    .header{
+        width: 400px;
+    }
+    .dropbtn{
+        visibility: visible;
+    }
+    .dropdown{
+        visibility: visible;
+    }
+  
+
+}
+
+
+@media only screen and (max-width: 399px){
+    #wrapper{
+        width: 300px;
+        margin: 0 auto;
+    }
+    #mainPic{
+       width: 300px;
+       height: 330px;
+       
+    }
+    #mainPic2{
+        width: 300px;
+        height: 330px;
      
     }
     ul li{
-        margin-left: 12px;
-        margin-right: 12px;
+        margin-left: 1px;
+        margin-right: 1px;
+        
     }
     .header{
-        width: 400px;
+        width: 300px;
+      
     }
 }
