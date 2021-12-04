@@ -140,13 +140,17 @@
         height: 330px;
      
     }
-    ul li{
-        margin-left: 1px;
-        margin-right: 1px;
-        
+    .pcVariant{
+        visibility: hidden;
     }
+    
     .header{
         width: 300px;
-      
+    }
+    .dropbtn{
+        visibility: visible;
+    }
+    .dropdown{
+        visibility: visible;
     }
 }
