@@ -91,10 +91,7 @@
     .header{
         width: 500px;
     }
-    #spis{
-        height: 35px;
-        width: 35px;
-    }
+   
 }
 
 @media only screen and (max-width: 499px){
@@ -161,10 +158,6 @@
     .dropdown{
         visibility: visible;
     }
-    #spis{
-        height: 35px;
-        width: 35px;
-    }
 }
 
 @media only screen and (max-width: 299px){
@@ -194,8 +187,5 @@
     .dropdown{
         visibility: visible;
     }
-    #spis{
-        height: 35px;
-        width: 35px;
-    }
+
 }
