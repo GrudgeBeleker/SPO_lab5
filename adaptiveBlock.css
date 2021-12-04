@@ -157,16 +157,16 @@
 
 @media only screen and (max-width: 299px){
     #wrapper{
-        width: 200px;
+        width: 260px;
         margin: 0 auto;
     }
     #mainPic{
-       width: 200px;
+       width: 260px;
        height: 330px;
        
     }
     #mainPic2{
-        width: 200px;
+        width: 260px;
         height: 330px;
      
     }
@@ -174,7 +174,7 @@
         visibility: hidden;
     }
     .header{
-        width: 200px;
+        width: 260px;
     }
     .dropbtn{
         visibility: visible;
