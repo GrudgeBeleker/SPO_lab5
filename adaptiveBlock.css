@@ -91,6 +91,10 @@
     .header{
         width: 500px;
     }
+    #spis{
+        height: 35px;
+        width: 35px;
+    }
 }
 
 @media only screen and (max-width: 499px){
@@ -110,10 +114,7 @@
     .pcVariant{
         visibility: hidden;
     }
-    #spis{
-        height: 10px;
-        width: 10px;
-    }
+    
     .header{
         width: 400px;
     }
@@ -122,6 +123,10 @@
     }
     .dropdown{
         visibility: visible;
+    }
+    #spis{
+        height: 35px;
+        width: 35px;
     }
   
 
@@ -156,6 +161,10 @@
     .dropdown{
         visibility: visible;
     }
+    #spis{
+        height: 35px;
+        width: 35px;
+    }
 }
 
 @media only screen and (max-width: 299px){
@@ -184,5 +193,9 @@
     }
     .dropdown{
         visibility: visible;
+    }
+    #spis{
+        height: 35px;
+        width: 35px;
     }
 }
