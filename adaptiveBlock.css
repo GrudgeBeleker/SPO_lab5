@@ -1,13 +1,36 @@
 @media only screen and (max-width: 899px){
     #wrapper{
+        width: 800;
+        margin: 0 auto;
+    }
+    #mainPic{
+        width: 800px;
+        height: 600px;
+    }
+    #mainPic2{
+        width: 800px;
+        height: 600px;
+    }
+    ul li{
+        margin-left: 40px;
+        margin-left: 40px;
+    }
+}
+
+@media only screen and (max-width: 799px){
+    #wrapper{
         width: 100vw;
     }
     #mainPic{
-        width: 100vw;
-        height: 30vw;
+        width: 700px;
+        height: 500px;
     }
     #mainPic2{
-        width: 100vw;
-        height: 30vw;
+        width: 700px;
+        height: 500px;
+    }
+    ul li{
+        margin-left: 35px;
+        margin-left: 35px;
     }
 }
