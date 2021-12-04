@@ -1,36 +1,118 @@
 @media only screen and (max-width: 899px){
     #wrapper{
-        width: 800;
+        width: 800px;
         margin: 0 auto;
     }
     #mainPic{
-        width: 800px;
-        height: 600px;
+       width: 800px;
+       height: 465px;
+       
     }
     #mainPic2{
         width: 800px;
-        height: 600px;
+        height: 490px;
+     
     }
     ul li{
-        margin-left: 40px;
-        margin-left: 40px;
+        margin-left: 35px;
+        margin-left: 35px;
+    }
+    .header{
+        width: 800px;
     }
 }
 
 @media only screen and (max-width: 799px){
     #wrapper{
-        width: 100vw;
+        width: 700px;
+        margin: 0 auto;
     }
     #mainPic{
-        width: 700px;
-        height: 500px;
+       width: 700px;
+       height: 380px;
+       
     }
     #mainPic2{
         width: 700px;
-        height: 500px;
+        height: 380px;
+     
     }
     ul li{
         margin-left: 35px;
-        margin-left: 35px;
+        margin-right: 35px;
+    }
+    .header{
+        width: 700px;
+    }
+}
+
+@media only screen and (max-width: 699px){
+    #wrapper{
+        width: 600px;
+        margin: 0 auto;
+    }
+    #mainPic{
+       width: 600px;
+       height: 330px;
+       
+    }
+    #mainPic2{
+        width: 600px;
+        height: 330px;
+     
+    }
+    ul li{
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+    .header{
+        width: 600px;
+    }
+}
+@media only screen and (max-width: 599px){
+    #wrapper{
+        width: 500px;
+        margin: 0 auto;
+    }
+    #mainPic{
+       width: 500px;
+       height: 330px;
+       
+    }
+    #mainPic2{
+        width: 500px;
+        height: 330px;
+     
+    }
+    ul li{
+        margin-left: 18px;
+        margin-right: 18px;
+    }
+    .header{
+        width: 500px;
+    }
+}
+
+@media only screen and (max-width: 499px){
+    #wrapper{
+        width: 400px;
+        margin: 0 auto;
+    }
+    #mainPic{
+       width: 400px;
+       height: 330px;
+       
+    }
+    #mainPic2{
+        width: 400px;
+        height: 330px;
+     
+    }
+    ul li{
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+    .header{
+        width: 400px;
     }
 }
