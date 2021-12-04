@@ -1,5 +1,13 @@
 @media only screen and (max-width: 899px){
     #wrapper{
-        width: 100%;
+        width: 100vw;
+    }
+    #mainPic{
+        width: 100vw;
+        height: 30vw;
+    }
+    #mainPic2{
+        width: 100vw;
+        height: 30vw;
     }
 }
