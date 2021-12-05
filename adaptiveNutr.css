@@ -6,17 +6,14 @@
     #nutr1{
        width: 800px;
        height: 480px;
-       
     }
     #nutr2{
         width: 800px;
         height: 480px;
-     
     }
     #nutr3{
         width: 800px;
         height: 480px;
-     
     }
     ul li{
         margin-left: 35px;
@@ -25,6 +22,7 @@
     .header{
         width: 800px;
     }
+   
 }
 
 @media only screen and (max-width: 799px){
