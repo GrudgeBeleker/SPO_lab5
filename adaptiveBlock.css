@@ -186,3 +186,34 @@
     }
 
 }
+
+
+@media only screen and (max-width: 259px){
+    #wrapper{
+        width: 200px;
+        margin: 0 auto;
+    }
+    #mainPic{
+       width: 200px;
+       height: 100px;
+       
+    }
+    #mainPic2{
+        width: 200px;
+        height: 100px;
+     
+    }
+    .pcVariant{
+        visibility: hidden;
+    }
+    .header{
+        width: 200px;
+    }
+    .dropbtn{
+        visibility: visible;
+    }
+    .dropdown{
+        visibility: visible;
+    }
+
+}
