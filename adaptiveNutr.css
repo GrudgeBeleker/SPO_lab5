@@ -111,6 +111,10 @@
     .header{
         width: 500px;
     }
+    #spis{
+        height: 35px;
+        width: 35px;
+    }
    
 }
 
@@ -149,7 +153,6 @@
         height: 35px;
         width: 35px;
     }
-  
 
 }
 
@@ -182,11 +185,12 @@
         width: 300px;
     }
     .dropbtn{
-        visibility: visible;
+        visibility: unset;
     }
     .dropdown{
-        visibility: visible;
+        visibility: unset;
     }
+   
 }
 
 @media only screen and (max-width: 299px){
@@ -220,6 +224,11 @@
     }
     .dropdown{
         visibility: visible;
+    }
+    #spiss{
+        visibility: visible;
+        height: 35px;
+        width: 35px;
     }
 
 }
