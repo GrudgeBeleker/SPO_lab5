@@ -109,10 +109,6 @@
     .header{
         width: 500px;
     }
-    #spis{
-        height: 35px;
-        width: 35px;
-    }
    
 }
 
@@ -123,33 +119,34 @@
     }
     #nutr1{
        width: 400px;
-       height: 210px;
+       height: 380px;
        
     }
     #nutr2{
         width: 400px;
-        height: 2100px;
+        height: 380px;
+     
     }
     #nutr3{
         width: 400px;
-        height: 2100px;
+        height: 380px;
+     
+    }
+    ul li{
+        margin-left: 35px;
+        margin-right: 35px;
+    }
+    .header{
+        width: 400px;
     }
     .pcVariant{
         visibility: hidden;
-    }
-    
-    .header{
-        width: 400px;
     }
     .dropbtn{
         visibility: visible;
     }
     .dropdown{
         visibility: visible;
-    }
-    #spis{
-        height: 35px;
-        width: 35px;
     }
 
 }
@@ -163,22 +160,18 @@
     #nutr1{
        width: 300px;
        height: 160px;
-       
     }
     #nutr2{
         width: 300px;
         height: 330px;
-     
     }
     #nutr3{
         width: 300px;
         height: 330px;
-     
     }
     .pcVariant{
         visibility: hidden;
     }
-    
     .header{
         width: 300px;
     }
@@ -222,11 +215,6 @@
     }
     .dropdown{
         visibility: visible;
-    }
-    #spiss{
-        visibility: visible;
-        height: 35px;
-        width: 35px;
     }
 
 }
