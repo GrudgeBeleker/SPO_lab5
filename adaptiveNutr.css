@@ -218,3 +218,38 @@
     }
 
 }
+
+@media only screen and (max-width: 259px){
+    #wrapper{
+        width: 200px;
+        margin: 0 auto;
+    }
+    #nutr1{
+       width: 200px;
+       height: 330px;
+       
+    }
+    #nutr2{
+        width: 200px;
+        height: 330px;
+     
+    }
+    #nutr3{
+        width: 200px;
+        height: 330px;
+     
+    }
+    .pcVariant{
+        visibility: hidden;
+    }
+    .header{
+        width: 200px;
+    }
+    .dropbtn{
+        visibility: visible;
+    }
+    .dropdown{
+        visibility: visible;
+    }
+
+}
