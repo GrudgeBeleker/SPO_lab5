@@ -15,8 +15,13 @@ body{
     margin: 0 auto;
 }
 h2{
+    padding-top: 20px;
     padding-bottom: 20px;
     font-size: 40px;
+}
+h3{
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .header{
     background-color: #252933;
@@ -43,4 +48,23 @@ ul li{
     transition: all;
     transition: .4s;
     font-family: Cambria, Cochin, Georgia, Times, 'Calibri', serif;
+}
+
+#nutr1{
+    height: 600px;
+    width: 900px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#nutr2{
+    height: 530px;
+    width: 900px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#nutr3{
+    height: 530px;
+    width: 900px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
