@@ -1,0 +1,209 @@
+@media only screen and (max-width: 899px){
+    #wrapper{
+        width: 800px;
+        margin: 0 auto;
+    }
+    
+    ul li{
+        margin-left: 35px;
+        margin-left: 35px;
+    }
+    .header{
+        width: 800px;
+    }
+}
+
+@media only screen and (max-width: 799px){
+    #wrapper{
+        width: 700px;
+        margin: 0 auto;
+    }
+    #mainPic{
+       width: 700px;
+       height: 380px;
+       
+    }
+    #mainPic2{
+        width: 700px;
+        height: 380px;
+     
+    }
+    ul li{
+        margin-left: 35px;
+        margin-right: 35px;
+    }
+    .header{
+        width: 700px;
+    }
+}
+
+@media only screen and (max-width: 699px){
+    #wrapper{
+        width: 600px;
+        margin: 0 auto;
+    }
+    #mainPic{
+       width: 600px;
+       height: 330px;
+       
+    }
+    #mainPic2{
+        width: 600px;
+        height: 330px;
+     
+    }
+    ul li{
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+    .header{
+        width: 600px;
+    }
+}
+@media only screen and (max-width: 599px){
+    #wrapper{
+        width: 500px;
+        margin: 0 auto;
+    }
+    #mainPic{
+       width: 500px;
+       height: 270px;
+       
+    }
+    #mainPic2{
+        width: 500px;
+        height: 270px;
+     
+    }
+    ul li{
+        margin-left: 18px;
+        margin-right: 18px;
+    }
+    .header{
+        width: 500px;
+    }
+}
+
+@media only screen and (max-width: 499px){
+    #wrapper{
+        width: 400px;
+        margin: 0 auto;
+    }
+    #mainPic{
+       width: 400px;
+       height: 210px;
+       
+    }
+    #mainPic2{
+        width: 400px;
+        height: 210px;
+    }
+
+    .pcVariant{
+        visibility: hidden;
+    }
+    .header{
+        width: 400px;
+    }
+    .dropbtn{
+        visibility: visible;
+    }
+    .dropdown{
+        visibility: visible;
+    }
+    #spis{
+        height: 35px;
+        width: 35px;
+    }
+}
+
+
+@media only screen and (max-width: 399px){
+    #wrapper{
+        width: 300px;
+        margin: 0 auto;
+    }
+    #mainPic{
+       width: 300px;
+       height: 160px;
+       
+    }
+    #mainPic2{
+        width: 300px;
+        height: 160px;
+     
+    }
+    .pcVariant{
+        visibility: hidden;
+    }
+    
+    .header{
+        width: 300px;
+    }
+    .dropbtn{
+        visibility: visible;
+    }
+    .dropdown{
+        visibility: visible;
+    }
+}
+
+@media only screen and (max-width: 299px){
+    #wrapper{
+        width: 260px;
+        margin: 0 auto;
+    }
+    #mainPic{
+       width: 260px;
+       height: 135px;
+       
+    }
+    #mainPic2{
+        width: 260px;
+        height: 135px;
+    }
+    .pcVariant{
+        visibility: hidden;
+    }
+    .header{
+        width: 260px;
+    }
+    .dropbtn{
+        visibility: visible;
+    }
+    .dropdown{
+        visibility: visible;
+    }
+
+}
+
+
+@media only screen and (max-width: 259px){
+    #wrapper{
+        width: 200px;
+        margin: 0 auto;
+    }
+    #mainPic{
+       width: 200px;
+       height: 100px;
+       
+    }
+    #mainPic2{
+        width: 200px;
+        height: 100px;
+     
+    }
+    .pcVariant{
+        visibility: hidden;
+    }
+    .header{
+        width: 200px;
+    }
+    .dropbtn{
+        visibility: visible;
+    }
+    .dropdown{
+        visibility: visible;
+    }
+
+}

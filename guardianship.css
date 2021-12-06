@@ -51,6 +51,37 @@ ul li{
 .main{
     margin-top: 20px;
 }
+#guardianpic1{
+    height: 530px;
+    width: 900px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#guardianpic2{
+    height: 600px;
+    width: 900px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#guardianpic3{
+    height: 530px;
+    width: 900px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#guardianpic4{
+    height: 530px;
+    width: 900px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#guardianpic5{
+    height: 530px;
+    width: 900px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
 
 #spis{
     height: 35px;
