@@ -3,7 +3,26 @@
         width: 800px;
         margin: 0 auto;
     }
-    
+    #guardianpic1{
+        width: 800px;
+        height: 533px;
+    }
+    #guardianpic2{
+        width: 800px;
+        height: 570px;
+    }
+    #guardianpic3{
+        width: 800px;
+        height: 570px;
+    }
+    #guardianpic4{
+        width: 800px;
+        height: 533px;
+    }
+    #guardianpic5{
+        width: 800px;
+        height: 533px;
+    }
     ul li{
         margin-left: 35px;
         margin-left: 35px;
